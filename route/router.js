@@ -11,7 +11,7 @@ const router = new VueRouter({
             meta: {
                 navbarOption: "登录",
             },
-            component: (resolve) => require(['@/pages/pc/login'], resolve)
+            component: (resolve) => require(['@/pages/multiple/login'], resolve)
         },
         {
             // 登录
@@ -21,7 +21,7 @@ const router = new VueRouter({
                 navbarOption: "主页",
             },
             redirect: '/index',
-            component: (resolve) => require(['@/pages/pc/home'], resolve),
+            component: (resolve) => require(['@/pages/multiple/home'], resolve),
             children: [
                 {
 
@@ -31,7 +31,7 @@ const router = new VueRouter({
                     meta: {
                         navbarOption: "首页",
                     },
-                    component: (resolve) => require(['@/pages/pc/home/content/index'], resolve),
+                    component: (resolve) => require(['@/pages/multiple/home/content/index'], resolve),
                 }
             ]
         }
