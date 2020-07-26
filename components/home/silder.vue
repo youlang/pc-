@@ -1,5 +1,5 @@
 <template>
-    <div class="silder">
+    <div class="silder-dom">
         <ul>
             <li v-for="(item,index) in menus" :key="index" :class="{active: index==curIndex}" @click="curIndex=index">
                 <img :src="require(`../../assets/images/${item.icon||'items@2x.png'}`)" />
@@ -16,35 +16,36 @@ export default {
             curIndex: 0,
             menus: [{
                 name: '组织框架',
-                icon:'items@2x.png'
+                icon: 'items@2x.png'
             }, {
                 name: '人事招聘',
-                icon:'rszp@2x.png'
+                icon: 'rszp@2x.png'
             }, {
                 name: '人员薪资',
-                icon:'items@2x.png'
+                icon: 'items@2x.png'
             }, {
                 name: '员工入职',
-                icon:'idcard@2x.png'
+                icon: 'idcard@2x.png'
             }, {
                 name: '绩效提成',
-                icon:'jxtc@2x.png'
+                icon: 'jxtc@2x.png'
             }, {
                 name: '考勤管理',
-                icon:'rili@2x.png'
+                icon: 'rili@2x.png'
             }, {
                 name: '员工关怀',
-                icon:'worker@2x.png'
+                icon: 'worker@2x.png'
             }, {
                 name: '员工肖像',
-                icon:'person@2x.png'
+                icon: 'person@2x.png'
             }]
         }
     }
 }
 </script>
 <style lang="less" scoped>
-.silder {
+.silder-dom {
+    border-right: 1px solid #ececec;
     ul {
         padding: 20px 0;
         color: #999;

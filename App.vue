@@ -11,13 +11,11 @@ export default {
     components: {
     },
     methods:{
-        gohref () {
-            location.href = '/transfer/#/home'
-        }
+        
     }
 }
 </script>
 
-<style>
-@import url('./assets/style/comm.css');
+<style lang="less">
+@import url('./assets/style/comm.less');
 </style>

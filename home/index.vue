@@ -27,10 +27,9 @@ export default {
 }
 </script>
 <style lang="less" scoped>
+@import url('../assets/style/comm.less');
 .home {
     position: relative;
-    padding: 65px 0 0 225px;
-    overflow: hidden;
     .head {
         position: fixed;
         left: 0;
@@ -42,12 +41,21 @@ export default {
     .silder {
         position: fixed;
         left: 0;
-        top: 65px;
+        top: 64px;
         bottom: 0;
-        width: 225px;
+        width: 224px;
         background: #fff;
         z-index: 2;
         overflow: auto;
+    }
+    .content{
+        overflow: auto;
+        position: fixed;
+        left: 226px;
+        top: 64px;
+        bottom: 0;
+        right:0;
+        min-width: 1000px;
     }
 }
 </style>

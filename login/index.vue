@@ -1,25 +1,225 @@
 <template>
-    <div>
-        <div class="router-root"><div><!----> <div data-v-5688246a="" class="content-wrap router-first keep-b"><!----> <div data-v-5688246a="" class="c-w"><img data-v-5688246a="" src="https://file.40017.cn/wisdomtravel/icon/newh5/refund_service.png" class="servive-img"> <!----> <div data-v-5688246a=""><div data-v-24d9a994="" data-v-5688246a="" class=""><div data-v-24d9a994="" class="back-head" style="top: 0px;"><div data-v-24d9a994="" class="take-place"><img data-v-24d9a994="" src="https://file.40017.cn/wisdomtravel/wisdom/yljx/top3.png"></div></div></div> <section data-v-5688246a="" class="order-wrap"><!----> <div data-v-57464ed8="" data-v-5688246a="" class="od-t-wrap" style="position: relative;"><!----> <div data-v-57464ed8="" class="module-pub" style="overflow: hidden;"><div data-v-57464ed8="" class="top-module"><div data-v-57464ed8="" class="flex-box h-wp"><!----> <div data-v-57464ed8="" class="flex1"><div data-v-57464ed8="" class="od-h flex-box h-flex-sp v-flex-center"><em data-v-57464ed8="" class="od-status-str">订单处理完成</em> <div data-v-c2bedf4a="" data-v-57464ed8="" class="price-wrap"><div data-v-c2bedf4a="">金额明细</div> <img data-v-c2bedf4a="" src="https://file.40017.cn/trainwechat/product/miniapp/common/icon/icon-arrow-rigth.png" alt="" class="ch-img"></div></div> <div data-v-57464ed8="" class="yd-content"><em data-v-57464ed8="">行程预订完成，请做好出行准备。</em></div></div></div> <!----> <div data-v-57464ed8="" class="flex-box h-flex-sp v-flex-center od-bot thin-border-top"><div data-v-57464ed8="" class="tk-j">退款进度</div> <div data-v-57464ed8="" class="flex-box refund-btn"><span data-v-57464ed8="">您有退款，去查看</span><img data-v-57464ed8="" src="https://file.40017.cn/trainwechat/product/miniapp/common/icon/icon-arrow-rigth.png"></div></div></div> <!----></div></div> <!----> <!----> <!----> <!----> <section data-v-5688246a="" style="display: none;"><!----></section> <div data-v-5688246a="" class="bk2-cont"><div data-v-5688246a="" class="lxj-xc2"><div data-v-5688246a="" class="lvj-icon-1"></div> <div data-v-5688246a="" class="color-orange">旅行家特权</div>&nbsp;&nbsp;
-            <div data-v-5688246a="">购票出行可获得100里程。</div></div></div> <!----> <!----> <!----> <!----> <div data-v-2150c59b="" data-v-5688246a=""><div data-v-2150c59b="" class="od-middle"><!----> <div data-v-2150c59b="" class="flex-box h-flex-sp v-flex-center od-tit"><div data-v-2150c59b=""><span data-v-2150c59b="">全程3小时14分钟</span></div> <!----> <!----></div> <div data-v-2150c59b=""><div data-v-2150c59b="" style="margin-bottom: 10px;"><!----> <div data-v-2150c59b=""><div data-v-2150c59b=""><div data-v-2d1008c8="" data-v-2150c59b="" class="train-wrap train-wrap" bgcolor="1"><div data-v-2d1008c8="" class="train-header flex-sb pdb-20 pdl-30"><div data-v-2d1008c8="" class="flex-nl"><div data-v-2d1008c8="" class="train-index">1</div> <div data-v-2d1008c8="" class="icon-list icon-train"></div> <div data-v-2d1008c8="" class="">06-30 周二</div> <!----> <!----> <!----></div> <div data-v-2d1008c8="" class="tr-header flex-box flex-wrap h-flex-end"><!----> <!----> <!----> <!----></div></div> <div data-v-2d1008c8="" class="train-body bg-grey"><!----> <div data-v-2d1008c8="" class="travel-place"><div data-v-2d1008c8="" class="fromStation">10:24</div> <em data-v-2d1008c8="">三水南</em></div> <div data-v-2d1008c8="" class="travel-time"><!----> <em data-v-2d1008c8="">11分</em> <div data-v-2d1008c8="" class="time-table-w"><!----> <div data-v-2d1008c8="" class="t-table">时刻表</div> <!----></div> <div data-v-2d1008c8="" class="train-no-ic"><div data-v-2d1008c8="">D3603</div> <!----></div> <!----> <!----></div> <div data-v-2d1008c8="" class="travel-place"><div data-v-2d1008c8="" class="fromStation">10:35</div> <em data-v-2d1008c8="">佛山西</em> <!----> <!----></div></div> <!----> <!----> <div data-v-50a67346="" data-v-2d1008c8="" class="koi-mask" style="z-index: 8700; display: none;"><div data-v-50a67346="" class="koi-mask-box koi-mask-center"><div data-v-2d1008c8="" class="exp-div"><div data-v-2d1008c8="" class="exp-div-title">共享航班说明</div> <div data-v-2d1008c8="" class="exp-div-cont"></div></div></div> <!----></div></div> <!----></div> <!----> <!----> <div data-v-2150c59b="" class="od-tit"><div data-v-d39f567c="" data-v-2150c59b="" class="pn-wrap"><div data-v-d39f567c="" class="flex-box h-flex-sp v-flex-center pn-name lh1"><div data-v-d39f567c="" class="pn-n-v"><span data-v-d39f567c="" class="pass-name">杨峰</span> <span data-v-d39f567c="" class="new-ui-adult"><span data-v-d39f567c="">成人</span></span></div> <div data-v-d39f567c="" class="seat-wrap-cont">一等座 ¥10</div></div> <div data-v-d39f567c="" class="flex-box h-flex-sp v-flex-center pn-card lh1"><div data-v-d39f567c="" class="ft-12">身份证 340************414</div> <!----> <!----></div> <div data-v-d39f567c="" class="flex-box h-flex-sp v-flex-center pn-sta lh1"><div data-v-d39f567c="" class="color-org"><div data-v-d39f567c="">
-        已取消
-         <!----></div></div> <div data-v-d39f567c="" class="flex-box v-flex-center h-flex-end"><!----> <!----> <!----> <!----> <!----> <!----> <!----></div></div></div></div> <!----> <!----> <!----> <!----> <div data-v-2150c59b=""><div data-v-2150c59b="" class="snap-recommand"><div data-v-2150c59b="" class="snap-recommand-title">
-                不想等了？<span data-v-2150c59b="">试试有票方案，买票直接走！</span></div> <div data-v-2150c59b="" class="snap-recommand-plan no-padding-bottom"><div data-v-2150c59b="" class="plan-column"><img data-v-2150c59b="" src="https://file.40017.cn/wisdomtravel/icon/spring18/snap_recommand_icon_1.png" class="plan-icon"> <div data-v-2150c59b="" class="v-flex-center"><div data-v-2150c59b="" class="plan-title">临近车次</div> <div data-v-2150c59b="" class="plan-desc">购买临近时间点车次</div></div></div> <div data-v-2150c59b="" class="plan-column"><div data-v-2150c59b="" class="plan-btn">
-                    马上订
-                  </div></div></div> <div data-v-2150c59b="" class="snap-recommand-plan" style="padding-bottom: 0px; display: none;"><div data-v-2150c59b="" class="plan-column"><img data-v-2150c59b="" src="https://file.40017.cn/wisdomtravel/icon/spring18/snap_recommand_icon_2.png" class="plan-icon"> <div data-v-2150c59b="" class="v-flex-center"><div data-v-2150c59b="" class="plan-title">上车补票等方案</div> <div data-v-2150c59b="" class="plan-desc">先上车，保障出行</div></div></div> <div data-v-2150c59b="" class="plan-column"><div data-v-2150c59b="" class="plan-btn">
-                    马上订
-                  </div></div></div></div></div></div></div><div data-v-2150c59b=""><div data-v-6e53eb6c="" data-v-2150c59b="" class="travel-split train-sp"><div data-v-6e53eb6c="" class="s"><div data-v-6e53eb6c="" class="span"><span data-v-6e53eb6c="" style="color: rgb(13, 214, 108);">同站</span>换乘，请在<span data-v-6e53eb6c="" style="color: rgb(255, 154, 80);">1小时45分钟</span>内换乘
-        <!----></div></div></div> <div data-v-2150c59b=""><div data-v-2150c59b=""><div data-v-2d1008c8="" data-v-2150c59b="" class="train-wrap train-wrap" bgcolor="1"><div data-v-2d1008c8="" class="train-header flex-sb pdb-20 pdl-30"><div data-v-2d1008c8="" class="flex-nl"><div data-v-2d1008c8="" class="train-index">2</div> <div data-v-2d1008c8="" class="icon-list icon-train"></div> <div data-v-2d1008c8="" class="">06-30 周二</div> <!----> <!----> <!----></div> <div data-v-2d1008c8="" class="tr-header flex-box flex-wrap h-flex-end"><!----> <!----> <span data-v-2d1008c8="" class="bd-red">取票号：EH37364965</span> <span data-v-2d1008c8="" class="bd-red">检票口4B</span></div></div> <div data-v-2d1008c8="" class="train-body bg-grey"><!----> <div data-v-2d1008c8="" class="travel-place"><div data-v-2d1008c8="" class="fromStation">12:20</div> <em data-v-2d1008c8="">佛山西</em></div> <div data-v-2d1008c8="" class="travel-time"><!----> <em data-v-2d1008c8="">1时18分</em> <div data-v-2d1008c8="" class="time-table-w"><!----> <div data-v-2d1008c8="" class="t-table">时刻表</div> <!----></div> <div data-v-2d1008c8="" class="train-no-ic"><div data-v-2d1008c8="">D7553</div> <!----></div> <!----> <!----></div> <div data-v-2d1008c8="" class="travel-place"><div data-v-2d1008c8="" class="fromStation">13:38</div> <em data-v-2d1008c8="">东莞</em> <!----> <!----></div></div> <!----> <!----> <div data-v-50a67346="" data-v-2d1008c8="" class="koi-mask" style="z-index: 8700; display: none;"><div data-v-50a67346="" class="koi-mask-box koi-mask-center"><div data-v-2d1008c8="" class="exp-div"><div data-v-2d1008c8="" class="exp-div-title">共享航班说明</div> <div data-v-2d1008c8="" class="exp-div-cont"></div></div></div> <!----></div></div> <!----></div> <!----> <!----> <div data-v-2150c59b="" class="od-tit"><div data-v-d39f567c="" data-v-2150c59b="" class="pn-wrap"><div data-v-d39f567c="" class="flex-box h-flex-sp v-flex-center pn-name lh1"><div data-v-d39f567c="" class="pn-n-v"><span data-v-d39f567c="" class="pass-name">杨峰</span> <span data-v-d39f567c="" class="new-ui-adult"><span data-v-d39f567c="">成人</span></span></div> <div data-v-d39f567c="" class="seat-wrap-cont">二等座 ¥65.5</div></div> <div data-v-d39f567c="" class="flex-box h-flex-sp v-flex-center pn-card lh1"><div data-v-d39f567c="" class="ft-12">身份证 340************414</div> <div data-v-d39f567c="">06车厢06D号</div> <!----></div> <div data-v-d39f567c="" class="flex-box h-flex-sp v-flex-center pn-sta lh1"><div data-v-d39f567c="" class="color-green"><div data-v-d39f567c="">
-        退票成功
-         <!----></div></div> <div data-v-d39f567c="" class="flex-box v-flex-center h-flex-end"><!----> <!----> <!----> <!----> <!----> <!----> <!----></div></div></div></div> <!----> <!----> <!----> <!----> <!----></div></div></div> <!----></div> <!----></div> <!----> <!----> <!----> <div data-v-5688246a="" class="od-award bk2-cont"><div data-v-5688246a="" class="oda-ite thin-border-right"><img data-v-5688246a="" src="https://file.40017.cn/wisdomtravel/wisdom/yljx/img_2.png" alt="" class="awd-img awd-img-an"> <div data-v-5688246a="" class="awd-ct"><div data-v-5688246a="" class="t">上期获奖名单</div> <div data-v-5688246a="" class="b">查看中奖名单</div></div></div> <div data-v-5688246a="" class="oda-ite"><img data-v-5688246a="" src="https://file.40017.cn/wisdomtravel/icon/newh5/award-od.jpg" alt="" class="awd-img"> <div data-v-5688246a="" class="awd-ct"><div data-v-5688246a="" class="t">中转出行调查</div> <div data-v-5688246a="" class="b">填问卷，可抽奖</div></div></div></div> <div data-v-77f79ac6="" data-v-5688246a=""><div data-v-77f79ac6="" class="question"><div data-v-77f79ac6="" class="question-title">常见问题</div> <div data-v-77f79ac6="" class="ul"><div data-v-77f79ac6="" class="li"><div data-v-77f79ac6="" class="q thin-border-top flex-box h-flex-sp v-flex-center"><div data-v-77f79ac6="" class="l">预约成功后如何帮我抢票？</div> <div data-v-77f79ac6="" class="r right-arr"></div></div> <div data-v-77f79ac6="" class="a thin-border-top" style="display: none;"><em data-v-77f79ac6="">如您成功预约了联运行程，当任意一程到达开售时间，我们将第一时间为您抢票，抢票成功后短信通知您，但无法保证100%抢票成功，建议您定期关注抢票状态，以免影响行程。</em></div></div><div data-v-77f79ac6="" class="li"><div data-v-77f79ac6="" class="q thin-border-top flex-box h-flex-sp v-flex-center"><div data-v-77f79ac6="" class="l">预约购票的结果什么时候通知我？</div> <div data-v-77f79ac6="" class="r right-arr"></div></div> <div data-v-77f79ac6="" class="a thin-border-top" style="display: none;"><em data-v-77f79ac6="">抢票结果我们将第一时间短信通知您，您也可以在首页-订单-中转联运中关注您的预约订单的抢票进展。</em></div></div><div data-v-77f79ac6="" class="li"><div data-v-77f79ac6="" class="q thin-border-top flex-box h-flex-sp v-flex-center"><div data-v-77f79ac6="" class="l">儿童票/铺位差价如何退还？</div> <div data-v-77f79ac6="" class="r right-arr"></div></div> <div data-v-77f79ac6="" class="a thin-border-top" style="display: none;"><em data-v-77f79ac6="">由于铁路局网络购票条件限制，预订卧铺，暂收下铺价格，预订儿童票，暂收成人价，若存在差价，我们将在抢票成功后3-15个工作日内退还至您的原支付渠道，请您放心。</em></div></div><div data-v-77f79ac6="" class="li"><div data-v-77f79ac6="" class="q thin-border-top flex-box h-flex-sp v-flex-center"><div data-v-77f79ac6="" class="l">预约购票失败怎么办？</div> <div data-v-77f79ac6="" class="r right-arr"></div></div> <div data-v-77f79ac6="" class="a thin-border-top" style="display: none;"><em data-v-77f79ac6="">联运订单中有一程火车抢票失败，另一程仍可正常抢票。当任意一程火车抢票失败时，我们将立即发起线上退款，失败那一程的票款在3-15个工作日内退还至您的原支付渠道，请留意微信退款通知。</em></div></div> <div data-v-77f79ac6="" class="help-content thin-border-top flex-box v-flex-center"><div data-v-77f79ac6="" class="h-c-item flex-box v-flex-center h-flex-center flex1"><div data-v-77f79ac6="" class="icon-ydxz icon-pub"></div> <div data-v-77f79ac6="">预订/退改须知</div></div> <div data-v-77f79ac6="" class="h-c-item flex-box v-flex-center h-flex-center flex1"><div data-v-77f79ac6="" class="icon-zxzx icon-pub"></div> <div data-v-77f79ac6="">在线咨询</div></div></div></div></div></div> <!----> <div data-v-5688246a="" class="getvouchers"><!----></div> <div data-v-5688246a="" class="bot-btn-w flex-box v-flex-center"><!----> <!----> <!----> <div data-v-5688246a="" class="b-btn flex1 flex-box v-flex-center h-flex-center">删除订单</div> <div data-v-5688246a="" class="org-od b-btn flex1 flex-box v-flex-center h-flex-center">
-            再次预订
-          </div></div> <div data-v-b50ae36a="" data-v-5688246a="" class="subscribe animated bounceInUp" tobottom="true"><div data-v-b50ae36a="" class="close">×</div> <ul data-v-b50ae36a=""><li data-v-b50ae36a="" class="flexBox thin-border-top"><div data-v-b50ae36a="" class="flex1"><img data-v-b50ae36a="" src="https://file.40017.cn/wisdomtravel/wisdom/icon/subscribe_icon_notice2.png"> <div data-v-b50ae36a="" class="mainTitle">订阅出票结果通知</div> <div data-v-b50ae36a="" class="subTitle">避免影响您的行程</div></div> <div data-v-b50ae36a="" class="go_btn">去订阅</div></li><li data-v-b50ae36a="" class="flexBox thin-border-top"><div data-v-b50ae36a="" class="flex1"><img data-v-b50ae36a="" src="https://file.40017.cn/wisdomtravel/wisdom/icon/subscribe_icon_notice2.png"> <div data-v-b50ae36a="" class="mainTitle">订阅退票结果通知</div> <div data-v-b50ae36a="" class="subTitle">避免影响您的行程</div></div> <div data-v-b50ae36a="" class="go_btn">去订阅</div></li></ul></div></section></div></div> <div data-v-5688246a="" style="width: 100%;"><!----> <!----> <!----> <!----> <div data-v-50a67346="" data-v-5688246a="" class="koi-mask" style="z-index: 9000; display: none;"><div data-v-50a67346="" class="koi-mask-box koi-mask-center"><div data-v-78945ba8="" data-v-5688246a="" class="main"><div data-v-78945ba8="" class="title thin-border-bottom">金额明细</div> <div data-v-78945ba8="" class="content"><div data-v-78945ba8="" class="list"><div data-v-78945ba8="" class="ticket"><div data-v-78945ba8="" class="head h-flex-sp v-flex-center"><div data-v-78945ba8="" class="l">票价费用</div></div> <div data-v-78945ba8="" class="flex-box v-flex-center h-flex-sp p-item"><div data-v-78945ba8="" class="flex1">三水南 - 佛山西(D3603)</div> <div data-v-78945ba8="" class="flex-shrink0">¥10<span data-v-78945ba8="" class="grey">×1</span></div></div><div data-v-78945ba8="" class="flex-box v-flex-center h-flex-sp p-item"><div data-v-78945ba8="" class="flex1">佛山西 - 东莞(D7553)</div> <div data-v-78945ba8="" class="flex-shrink0">¥65.5<span data-v-78945ba8="" class="grey">×1</span></div></div></div> <div data-v-78945ba8="" class="detail"><div data-v-78945ba8="" class="li thin-border-top"><div data-v-78945ba8="" class="l">高速出票+20元券礼包（new）</div> <div data-v-78945ba8="" class="count">¥20<span data-v-78945ba8="" class="grey">x2</span></div> <div data-v-78945ba8="" class="r"><div data-v-78945ba8="" class="cancelBtn">取消购买</div></div></div><div data-v-78945ba8="" class="li thin-border-top"><div data-v-78945ba8="" class="l">立减权益卡（测试）</div> <div data-v-78945ba8="" class="count">¥1<span data-v-78945ba8="" class="grey">x1</span></div> <div data-v-78945ba8="" class="r"><div data-v-78945ba8="" class="cancelBtn">取消购买</div></div></div> <div data-v-78945ba8="" class="grey">取消立减权益卡将不享受立减优惠哦~</div></div></div></div> <div data-v-78945ba8="" class="btn2 thin-border-top"><div data-v-78945ba8="" class="dopay">立即支付</div> <div data-v-78945ba8="" class="docancel">跳过，直接取消</div></div></div></div> <!----></div> <!----> <!----> <!----> <div data-v-50a67346="" data-v-5688246a="" class="koi-mask" style="display: none;"><div data-v-50a67346="" class="koi-mask-box koi-mask-center"><div data-v-8ad93aca="" data-v-5688246a=""><!----></div></div> <!----></div> <div data-v-50a67346="" data-v-5688246a="" class="koi-mask" style="z-index: 9001; display: none;"><div data-v-50a67346="" class="koi-mask-box koi-mask-center"></div> <!----></div> <!----> <div data-v-50a67346="" data-v-5688246a="" class="koi-mask" style="z-index: 9000; display: none;"><div data-v-50a67346="" class="koi-mask-box koi-mask-bottom"><div data-v-5688246a="" class="gtTips"><div data-v-5688246a="" class="head"><div data-v-5688246a="">跨境出行须知</div> <span data-v-5688246a="">×</span></div> <div data-v-1edbf47a="" data-v-5688246a="" class="gtTips-content thin-border-top"><div data-v-1edbf47a="" class="tabs thin-border-bottom"><span data-v-1edbf47a="" class="active">乘车规则</span><span data-v-1edbf47a="" class="">退票说明</span><span data-v-1edbf47a="" class="">改签说明</span></div> <div data-v-1edbf47a="" class="content">1.乘客乘车前必须换区纸质车票，香港始发的车票，需要在香港西九龙站B1层取票；<br>2.旅客必须携带有效的过关证件（如港澳回乡证等）；<br>3.暂不支持线上改签，请持购票证件至窗口办理；<br>4.建议于列车出发前至少45分钟到站取票并办理出入境手续；<br>5.旅客必须持有效车票并按票面标注的日期、车次、席别乘车，同时需要携带有效的出入境证件及签注。</div></div></div></div> <!----></div> <div data-v-2b071e36="" data-v-5688246a=""><!----></div> <!----> <!----> <!----></div></div></div></div>
+    <div class="login">
+        <!-- <div class="loginSn" v-if="formDynamic.loginId">
+            <div>请忽略</div>
+            <Input type="text" style="margin: 20px 0;" prefix="ios-person-outline" v-model="loginSn" placeholder="签名" />
+            <Button type="primary" long @click="goLogin">模拟登陆</Button>
+        </div> -->
+        <div class="form">
+            <div class="logo">
+                <img src="../assets/images/logo@2x.png" />
+                <div>
+                    名骏运营管理系统
+                </div>
+            </div>
+            <Form ref="formDynamic" :model="formDynamic" :label-width="0" style="width: 300px" v-if="loginType==1">
+                <FormItem>
+                    <Input type="text" prefix="ios-person-outline" v-model="formDynamic.loginId" placeholder="工号" />
+                </FormItem>
+                <!-- <FormItem>
+                    <Row>
+                        <Col span="15">
+                        <Input type="text" prefix="ios-unlock-outline" style="width:95%;margin:0" v-model="formDynamic.sjm" placeholder="验证码" />
+                        </Col>
+                        <Col span="9">
+                        <Button type="primary" style="width:100%" @click="getToken(formDynamic.loginId)">发送随机码</Button>
+                        </Col>
+                    </Row>
+                </FormItem> -->
+                <FormItem style="margin-top:20px">
+                    <Button type="primary" long @click="LoginRequest_Id(formDynamic.loginId)">{{isLogin?'正在验证...':'验证登录'}}</Button>
+                    <div class="changEwm" @click="loginType=2">二维码登录</div>
+                </FormItem>
+            </Form>
+            <div class="login-erm" v-else>
+                <div class="img"></div>
+                <div class="changEwm" @click="loginType=1">随机码登录</div>
+            </div>
+        </div>
     </div>
 </template>
+
 <script>
+import config from '@/pages/multiple/utils/config'
+import sessionId from '../utils/sessionid'
+import { mapMutations, mapState } from "vuex";
 export default {
     data () {
-        return {}
+        let loginId;
+        if(location.host.indexOf('localhost')>-1){
+            loginId = 181233
+        }
+        return {
+            loginType: 1,
+            formDynamic: {
+                loginId,
+                psd: '',
+                sjm: ''
+            },
+            loginSn: '',
+            isLogin: false
+        }
+    },
+    mounted () {
+        let q = this.$route.query
+        if (q.loginId) {
+            this.LoginRequest_Id(q.loginId)
+        }
+    },
+    methods: {
+        ...mapMutations("common", ["setAppToken", "setUserInfo"]),
+        goLogin () {
+            this.$model.system.login_define({
+                loginId: this.formDynamic.loginId,//【工号】
+                loginSn: this.loginSn,//【平台唯一标识固定值】
+            }).then(res => {
+                res.code == 1 && this.$Message.warning('请输入工号');
+            })
+        },
+        Oauth2 (state = '', url = '') {
+            return "https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa803cf6490a5d2df" +
+                "&redirect_uri=" + url + //【真实业务跳转地址】
+                "&str=" + Math.random().toString(36).substr(2) + //【随机字符串防止缓存，可选可不传】
+                "&response_type=code" + //【固定参数】
+                "&connect_redirect=1" +//【固定参数】
+                "&scope=snsapi_base" + //【固定参数】
+                "&state=" + state + //【自定义字符串】
+                "#wechat_redirect"//【固定参数】
+        },
+        getToken (loginId) {
+            if (loginId) {
+                this.$model.system.getToken({
+                    loginId,//【工号】
+                    sessionId:'', //必传
+                    corpId: config.corpId,//【平台唯一标识固定值】
+                    isadmin: true//【调式】
+                }).then(res => {
+                    if (res.code == 1) {
+                        setTimeout(() => {
+                            this.getToken(loginId)
+                        }, 2000)
+                    } else if (res.code == 0 && res.data) {
+                        let token = res.data
+                        this.$local.appToken(token)
+                        this.setAppToken(token);
+                        this.$model.user.getUserInfo({ appToken: token, parametes: {a:1} }).then(res => {
+                            if (res.code == 0) {
+                                this.setUserInfo(res.data);
+                                this.$router.push('/index')
+                            }else{
+                                this.$Message.error('登录失败，请联系管理员');
+                            }
+                        })
+                    }
+                })
+            } else {
+                this.$Message.warning('请输入工号');
+            }
+        },
+        changeLogin () {
+            // window.WwLogin({
+            //     "id": "wx_reg",
+            //     "appid": "",
+            //     "agentid": "",
+            //     "redirect_uri": location.href
+            // });
+        },
+        handleSubmit (name) {
+            this.$refs[name].validate((valid) => {
+                if (valid) {
+                    this.$Message.success('Success!');
+                } else {
+                    this.$Message.error('Fail!');
+                }
+            })
+        },
+        LoginRequest_Id (loginId) {
+            if (loginId) {
+                let param = {
+                    loginId,
+                    corpId: config.corpId
+                }
+                this.$model.system.LoginRequest_Id(param).then(res => {
+                    if (res.code == 0) {
+                        this.isLogin = true
+                        this.$Message.success('已发送认证信息，请在手机中确认');
+                        this.getToken(loginId)
+                    } else {
+                        this.$Message.error('认证失败，联系管理员');
+                    }
+                })
+            } else {
+                this.$Message.warning('请输入工号');
+            }
+        }
     }
 }
 </script>
+
+<style lang="less" scoped>
+.login {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    min-width: 1200px;
+    min-height: 800px;
+    background: #fff url(../assets/images/header-bg.png) no-repeat top center/
+        100% 50%;
+    .loginSn {
+        position: absolute;
+        left: 0;
+        top: 0;
+        background: #fff;
+        padding: 20px;
+    }
+    .form {
+        position: absolute;
+        top: 50%;
+        transform: translate3D(-50%, -50%, 0);
+        left: 50%;
+        border-radius: 10px;
+        background: rgba(255, 255, 255, 0.3);
+        box-shadow: 0 2px 2px #cecece;
+        padding: 20px 30px 0;
+        /deep/.ivu-form-item {
+            margin-bottom: 10px;
+        }
+        .login-erm {
+            width: 300px;
+            padding: 10px 0 20px;
+            height: 227px;
+            .img {
+                width: 140px;
+                height: 140px;
+                border: 1px solid red;
+                margin: 0 auto 10px;
+            }
+        }
+        .logo {
+            position: absolute;
+            bottom: 100%;
+            left: 0;
+            right: 0;
+            img {
+                display: block;
+                margin: 0 auto;
+            }
+            div {
+                font-size: 20px;
+                padding: 10px 0 20px;
+                font-weight: bold;
+                color: #fff;
+                text-align: center;
+            }
+        }
+        .changEwm {
+            color: #999;
+            padding: 5px 0 0;
+            text-align: center;
+            cursor: pointer;
+        }
+    }
+}
+</style>

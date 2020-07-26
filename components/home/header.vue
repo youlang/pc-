@@ -14,10 +14,15 @@
             <div class="iconfont icon-lingdang-xianxing">
                 <span>1</span>
             </div>
-            <div class="avatar">
-                <img src="../../assets/images/girl@2x.png" />
+            <div class="down">
+                <div class="avatar">
+                    <img src="../../assets/images/girl@2x.png" />
+                </div>
+                <div class="iconfont icon-xia1"></div>
+                <ul>
+                    <li @click="loginOut">退出</li>
+                </ul>
             </div>
-            <div class="iconfont icon-xia1"></div>
         </div>
     </div>
 </template>
@@ -40,6 +45,13 @@ export default {
                 name: '名骏学院'
             }]
         }
+    },
+    methods: {
+        loginOut () {
+            sessionStorage.clear()
+            localStorage.clear()
+            this.$router.push('/login')
+        }
     }
 }
 </script>
@@ -48,11 +60,12 @@ export default {
     height: 60px;
     background: #fff;
     min-width: 1300px;
+    border-bottom: 1px solid #ececec;
     .l {
         float: left;
         padding: 12px 10px;
         border-right: 3px solid #eff2f7;
-        width: 205px;
+        width: 226px;
         img {
             width: 35px;
             height: 35px;
@@ -66,7 +79,7 @@ export default {
             line-height: 35px;
         }
     }
-    ul {
+    ul.navs {
         float: left;
         overflow: hidden;
         padding: 0 30px;
@@ -142,16 +155,46 @@ export default {
                 top: -2px;
             }
         }
-        .avatar {
-            margin-top: 13px;
-            margin-right: 15px;
-            border-left: 1px solid #ececec;
-            padding-left: 20px;
-        }
         img {
             width: 35px;
             height: 35px;
             border-radius: 50%;
+        }
+        .down{
+            height: 60px;
+            position: relative;
+            &:hover ul{
+                display: block;
+            }
+            ul{
+                position: absolute;
+                z-index: 100;
+                left:0;
+                right:0;
+                top:100%;
+                background: #fff;
+                line-height: 30px;
+                display: none;
+                text-align: center;
+                font-size: 14px;
+                li{
+                    cursor: pointer;
+                    margin: 3px 0;
+                    &:hover{
+                        background: #ececec;
+                    }
+                }
+            }
+            .avatar {
+                margin-top: 13px;
+                margin-right: 15px;
+                border-left: 1px solid #ececec;
+                padding-left: 20px;
+                float: left;
+            }
+            .iconfont{
+                float: left;
+            }
         }
     }
 }
